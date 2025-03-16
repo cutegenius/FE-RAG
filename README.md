@@ -1,2 +1,2 @@
 # FE-RAG
-基于东方财富爬虫的研报数据，NewsAPI的新闻数据以及AKSHARE的行情数据还有deepseek搭建的RAG
+基于东方财富爬虫的研报数据，NewsAPI的新闻数据以及AKSHARE的行情数据还有deepseek搭建的RAG可以用来预测需要投资的行业
